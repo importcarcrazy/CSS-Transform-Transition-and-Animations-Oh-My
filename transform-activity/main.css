@@ -10,6 +10,7 @@ main {
   margin: auto;
   display: flex;
   align-items: center;
+  rotate: 20deg:
 }
 
 main > div {
